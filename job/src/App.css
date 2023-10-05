@@ -1,0 +1,9 @@
+
+
+.title{
+    color: rgb(25,118,210);
+}
+.company_name{
+    display: flex;
+    justify-content: space-between;
+}
